@@ -13,48 +13,48 @@ msgstr ""
 
 #: lib/l10n/translator.ex:290
 msgid "Apr"
-msgstr ""
+msgstr "เม.ย."
 
 #: lib/l10n/translator.ex:294
 msgid "Aug"
-msgstr ""
+msgstr "ส.ค."
 
 #: lib/l10n/translator.ex:298
 msgid "Dec"
-msgstr ""
+msgstr "ธ.ค."
 
 #: lib/l10n/translator.ex:288
 msgid "Feb"
-msgstr ""
+msgstr "ก.พ."
 
 #: lib/l10n/translator.ex:287
 msgid "Jan"
-msgstr ""
+msgstr "ม.ค."
 
 #: lib/l10n/translator.ex:293
 msgid "Jul"
-msgstr ""
+msgstr "ก.ค."
 
 #: lib/l10n/translator.ex:292
 msgid "Jun"
-msgstr ""
+msgstr "มิ.ย."
 
 #: lib/l10n/translator.ex:289
 msgid "Mar"
-msgstr ""
+msgstr "มี.ค."
 
 #: lib/l10n/translator.ex:291
 msgid "May"
-msgstr ""
+msgstr "พ.ค."
 
 #: lib/l10n/translator.ex:297
 msgid "Nov"
-msgstr ""
+msgstr "พ.ย."
 
 #: lib/l10n/translator.ex:296
 msgid "Oct"
-msgstr ""
+msgstr "ต.ค."
 
 #: lib/l10n/translator.ex:295
 msgid "Sep"
-msgstr ""
+msgstr "ก.ย."
